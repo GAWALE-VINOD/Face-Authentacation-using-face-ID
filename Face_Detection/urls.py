@@ -7,4 +7,8 @@ urlpatterns = [
     path('login/',login,name = 'login'),
     path('greeting/<face_id>/',Greeting,name='greeting')
     
+
+    
 ]
+
+
